@@ -1,22 +1,21 @@
-# Push Notifications codelab
+# プッシュ通知コードラボ
 
-Code for the Web Fundamentals [Push Notifications codelab](https://codelabs.developers.google.com/codelabs/push-notifications/).
+The Web Fundamentals の [Push Notifications codelab](https://codelabs.developers.google.com/codelabs/push-notifications/) で利用するコードです。
 
-In this codelab, you'll learn how to add Push Notifications to web applications. This will enable you to re-engage users with breaking news and information about
-new content.
+プッシュ通知をつかったメッセージングは、ユーザーに改めて訴えかける簡単で効果的な方法です。このコードラボでは、プッシュ通知をウェブアプリに追加する方法を学びます。
+また、このコードラボを通して、サービスワーカーの基礎も学ぶことができます。
 
-You'll also learn the basics of Service Workers.
+## 学習内容
 
-## What you'll learn
+* サービスワーカーの基礎: インストールとイベント処理
+* Google Cloud Messaging (GCM) アカウントのセットアップ方法
+* web manifest の追加方法
+* GCM をつかって、Web クライアントに通知を送信する方法
+* 受信プッシュ メッセージを処理する方法
+* 通知を表示する方法
+* 通知のクリックに応答する方法
 
-* Service Worker basics: installation and event handling
-* How to set up a Google Cloud Messaging (GCM) account
-* How to add a web manifest
-* Techniques for requesting GCM to send a notification to a web client
-* Notification display
-* Notification click handling
-
-Example code for each step of the codelab is available from the [completed](completed/) directory.
+ステップごとのサンプルコードを [completed](completed/) ディレクトリで確認することができます。
 
 ## License
 
